@@ -1,0 +1,63 @@
+{include file="header"}
+{include file="tabs"}
+
+<div class="admin-biaogelist">
+
+    <div class="listbiaoti am-cf">
+        <ul class="am-icon-user on"> 佣金明细</ul>
+
+        <dl class="am-icon-home" style="float: right;">当前位置： 首页 >
+            <a href="{:url('admin/user/index')}">会员列表</a>>
+            <a href="#">佣金明细</a></dl>
+    </div>
+
+    <div class="am-form am-g">
+        <div class="am-article-bd am-margin-bottom-sm am-article-lead am-text-middle am-text-lg">
+            <b>总收入额：<span class="am-text-danger">{$commission.income}</span></b>
+            <b>支出金额：<span class="am-text-danger">{$commission.outcome}</span></b>
+            <b>迁移佣金：<span class="am-text-danger">{$commission.total}</span></b>
+            <b>支出金额(迁移)：<span class="am-text-danger">{$commission.pay}</span></b>
+        </div>
+      <table width="100%" class="am-table am-table-striped am-table-hover am-table-radius">
+                <thead>
+                <tr class="am-success">
+                    <th class="table-type am-hide-sm-only" width="10%">佣金类型</th>
+                    <th class="table-type am-hide-sm-only" width="10%">佣金变动</th>
+                    <th class="table-date am-hide-sm-only" width="10%">即时金额</th>
+                    <th class="table-date am-hide-sm-only" width="10%">描述</th>
+                    <th class="table-date am-hide-sm-only" width="10%">操作员</th>
+                    <th class="table-date am-hide-sm-only" width="10%">交易时间</th>
+                </tr>
+                </thead>
+                <tbody>
+
+                {volist name="$commission.data" id="row"}
+                <tr>
+                    <td class="am-text-middle ">
+                        {$row.transaction_type_name}
+                    </td>
+                    <td class="am-text-middle ">
+                        {$row.amount}
+                    </td>
+                    <td class="am-text-middle ">
+                        {$row.balance}
+                    </td>
+                    <td class=" am-text-middle">
+                        {$row.description  }
+                    </td>
+                    <td class=" am-text-middle">
+                        {$row.operation_name}
+                    </td>
+                    <td class=" am-text-middle">
+                        {$row.create_time}
+                    </td>
+                </tr>
+                {/volist}
+                </tbody>
+            </table>
+
+
+    </div>
+
+
+    {include file="footer"}

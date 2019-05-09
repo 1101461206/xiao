@@ -1,0 +1,88 @@
+{include file="header"}
+{include file="tabs"}
+
+<div class="admin-biaogelist">
+
+    <div class="listbiaoti am-cf">
+        <ul class="am-icon-user on"> 会员列表</ul>
+
+        <dl class="am-icon-home" style="float: right;">当前位置： 首页 > <a href="#">会员列表</a></dl>
+
+        <!--<dl>-->
+        <!--<button type="button" class="am-btn am-btn-danger am-round am-btn-xs am-icon-plus" >代下单</button>-->
+        <!--</dl>-->
+        <!--这里打开的是新页面-->
+    </div>
+
+    <div class="am-form am-g">
+        <table width="100%" class="am-table am-table-bordered am-table-radius am-table-striped am-table-hover">
+            <thead>
+            <tr class="am-success">
+                <th class="table-type am-hide-sm-only" width="3%">id</th>
+                <th class="table-type am-hide-sm-only" width="3%">头像</th>
+                <th class="table-date am-hide-sm-only" width="6%">昵称</th>
+                <th class="table-date am-hide-sm-only" width="5%">手机号</th>
+                <th class="table-date am-hide-sm-only" width="10%">unionid</th>
+                <th class="table-date am-hide-sm-only" width="4%">用户等级</th>
+                <th class="table-date am-hide-sm-only" width="10%">上级</th>
+                <th class="table-date am-hide-sm-only" width="6%">注册时间</th>
+                <th class="table-date am-hide-sm-only" width="6%">关注状态</th>
+                <th class="table-type am-hide-sm-only" width="6%">归属客服</th>
+                <th width="6%" class="table-set">操作</th>
+            </tr>
+            </thead>
+            <tbody>
+            {volist name="list" id="row"}
+            <tr>
+                <td class="am-text-middle am-text-center"> {$row.user_id}</td>
+                <td class="am-text-middle am-text-center">
+                    {if $row.head_image_url}<img src="{$row.head_image_url}" width="40" height="40">{/if}
+                </td>
+                <td class="am-text-middle am-text-center">
+                    {$row.nick_name}
+                </td>
+                <td class="am-text-center am-text-middle">
+                    {$row.telephone}
+                </td>
+                <td class="am-text-left am-text-middle">
+                    {$row.unionid}
+                </td>
+                <td class="am-text-center am-text-middle">
+                    {if $row.user_role==1}
+                    VIP
+                    {elseif $row.user_role==2}
+                    总监
+                    {elseif $row.user_role==3}
+                    经理
+                    {/if}
+                </td>
+                <td class="am-text-center am-text-middle">
+                    {$row.p_name}
+                </td>
+                <td class="am-text-center am-text-middle">
+                    {$row.create_time}
+
+                </td>
+                <td class="am-text-center am-text-middle">
+                    {if $row.is_subscribe==0}
+                    未关注
+                    {elseif $row.is_subscribe==1}
+                    已关注
+                    {/if}
+                </td>
+                <td class="am-text-center am-text-middle">
+                    {$row.kfuser}
+
+                </td>
+                <td class="am-text-center am-text-middle">
+                    <a class="am-btn am-btn-primary  am-round am-btn-sm" href="{:url('admin/user/commission',array('id'=>$row.user_id))}">佣金明细</a>
+                </td>
+            </tr>
+            {/volist}
+            </tbody>
+        </table>
+        {$page|raw}
+    </div>
+
+
+    {include file="footer"}

@@ -1,0 +1,64 @@
+{include file="header"}
+{include file="tabs"}
+
+        <div class="admin">
+           <div class="welcome">
+               <p class=""><b>欢迎来到爱风尚分销系统</b></p>
+           </div>
+            <div class="admin-index">
+                <dl data-am-scrollspy="{animation: 'slide-right', delay: 100}">
+                    <dt class="qs"><i class="am-icon-bell-o"></i></dt>
+                    <dd>{$data['sell_out']}</dd>
+                    <dd class="f12">已售罄商品</dd>
+                </dl>
+                <dl data-am-scrollspy="{animation: 'slide-right', delay: 300}">
+                    <dt class="cs"><i class="am-icon-bullhorn"></i></dt>
+                    <dd>{$data['wrning']}</dd>
+                    <dd class="f12">商品库存预警</dd>
+                </dl>
+                <dl data-am-scrollspy="{animation: 'slide-right', delay: 600}">
+                    <dt class="hs"><i class="am-icon-shopping-cart"></i></dt>
+                    <dd>{$data['payment']}</dd>
+                    <dd class="f12">待付款订单</dd>
+                </dl>
+                <dl data-am-scrollspy="{animation: 'slide-right', delay: 900}">
+                    <dt class="ls"><i class="am-icon-comment-o"></i></dt>
+                    <dd>{$data['refund']}</dd>
+                    <dd class="f12">维权订单</dd>
+                </dl>
+            </div>
+
+            <div class="admin-biaoge">
+                <div class="shujuone am-fl">
+
+                    <ul>
+                        <h2>本月订单</h2>
+                    </ul>
+                    <dl>
+                        <dt class="am-fr am-margin-right-lg"><h2>{$data['order_num']}单</h2></dt>
+                    </dl>
+                </div>
+                <div class="shujutow am-fl">
+                    <ul>
+                        <h2>本月销售</h2>
+                    </ul>
+                    <dl>
+                        <dt class="am-fr am-margin-right-lg"><h2>{$data['order_price']}元</h2></dt>
+                    </dl>
+                </div>
+                <div class="shujuone am-fl">
+                    <ul>
+                        <h2>新增队长</h2>
+                    </ul>
+                    <dl>
+                        <dt class="am-fr am-margin-right-lg"><h2>{$data['user_num']}人</h2></dt>
+                    </dl>
+                </div>
+                <div class="am-cf"></div>
+
+            </div>
+        </div>
+
+
+
+ {include file="footer"}

@@ -1,0 +1,60 @@
+---------------------------------------------------------------
+[2019-04-11T10:16:21+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[ info ] dfd
+---------------------------------------------------------------
+[2019-04-11T10:17:08+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[ info ] array (
+  'code' => 4100,
+  'message' => '(10030)authentication failed',
+  'requestId' => '837669532153708612',
+  'clientRequestId' => 0,
+)
+---------------------------------------------------------------
+[2019-04-11T10:17:20+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[ info ] array (
+  'code' => 0,
+  'message' => '',
+  'requestId' => '8321807687958129496',
+  'clientRequestId' => 0,
+  'msgId' => '562949953421334',
+)
+---------------------------------------------------------------
+[2019-04-11T10:17:22+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[ info ] array (
+  'code' => 0,
+  'message' => '',
+  'requestId' => '837669532153715640',
+  'clientRequestId' => 0,
+  'msgId' => '562949953421335',
+)
+---------------------------------------------------------------
+[2019-04-11T10:17:31+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[ info ] array (
+  'code' => 0,
+  'message' => '',
+  'requestId' => '837669532153720213',
+  'clientRequestId' => 0,
+  'msgId' => '562949953421336',
+)
+---------------------------------------------------------------
+[2019-04-11T10:18:09+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[ info ] array (
+  'code' => 0,
+  'message' => '',
+  'requestId' => '8321807687958154805',
+  'clientRequestId' => 0,
+  'msgId' => '562949953421337',
+)
+---------------------------------------------------------------
+[2019-04-11T10:25:57+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[ info ] array (
+  'code' => 0,
+  'message' => '',
+  'requestId' => '2647835108089940771',
+  'clientRequestId' => 0,
+  'msgId' => '562949953421338',
+  'msg' => 'model:face,openid:1111',
+)
+---------------------------------------------------------------
+[2019-04-11T10:28:37+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[ info ] {"code":0,"message":"","requestId":"933089548629936808","clientRequestId":0,"msgId":"562949953421339"}

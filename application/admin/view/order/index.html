@@ -1,0 +1,99 @@
+{include file="header"}
+{include file="tabs"}
+
+<div class="admin-biaogelist">
+
+    <div class="listbiaoti am-cf">
+        <ul class="am-icon-flag on"> 订单列表</ul>
+
+        <dl class="am-icon-home" style="float: right;">当前位置： 首页 > <a href="#">订单列表</a></dl>
+
+        <dl>
+            <button type="button" class="am-btn am-btn-danger am-round am-btn-xs am-icon-plus" >代下单</button>
+        </dl>
+        <!--这里打开的是新页面-->
+    </div>
+
+    <form class="am-form am-g">
+        <table width="100%" class="am-table am-table-bordered am-table-radius am-table-striped am-table-hover">
+            <thead>
+            <tr class="am-success">
+                <th class="table-type am-hide-sm-only" width="20%">商品名称</th>
+                <th class="table-type am-hide-sm-only" width="8%">单价/数量</th>
+                <th class="table-date am-hide-sm-only" width="6%">订单金额</th>
+                <th class="table-date am-hide-sm-only" width="10%">下单人</th>
+                <th class="table-date am-hide-sm-only" width="10%">收件人/收件电话</th>
+                <th class="table-date am-hide-sm-only" width="10%">收件地址</th>
+                <th class="table-date am-hide-sm-only" width="6%">支付方式</th>
+                <th class="table-date am-hide-sm-only" width="6%">订单状态</th>
+                <th class="table-type am-hide-sm-only" width="6%">备货状态</th>
+                <th class="table-type am-hide-sm-only" width="10%">下单时间</th>
+                <th width="6%" class="table-set">操作</th>
+            </tr>
+            </thead>
+            <tbody>
+            {volist name="list" id="row"}
+            <tr>
+                <td colspan="11" >
+                    <span class="am-fl am-padding-horizontal">订单编号：{$row.order_sn}</span>
+                    <span class="am-fr am-padding-horizontal" >归属客服:{$row.name}</span></td>
+            </tr>
+            {foreach $row.goods_name as $key=>$vo}
+            <tr>
+                <td  class="am-text-left am-text-middle">{$vo.goods_name}</td>
+                <td class="am-text-center am-text-middle">{$vo.shop_price}<br>{$vo.standard_name}<br>*{$vo.goods_number}</td>
+                {if $key==0}
+                <td rowspan="{php}echo count($row['goods_name']){/php}" class="am-text-middle am-text-center">{$row.goods_amount}</td>
+                <td rowspan="{php}echo count($row['goods_name']){/php}" class="am-text-center am-text-middle">{$row.nick_name}</td>
+                <td rowspan="{php}echo count($row['goods_name']){/php}" class="am-text-center am-text-middle">{$row.consignee}<br>{$row.telephone}</td>
+                <td rowspan="{php}echo count($row['goods_name']){/php}" class="am-text-center am-text-middle">{$row.province_name}-{$row.city_name}-{$row.address}</td>
+                <td rowspan="{php}echo count($row['goods_name']){/php}" class="am-text-center am-text-middle">{$row.pay_name}<br>{$row.pay_status}</td>
+                <td rowspan="{php}echo count($row['goods_name']){/php}" class="am-text-center am-text-middle">{$row.order_status}</td>
+                <td rowspan="{php}echo count($row['goods_name']){/php}" class="am-text-center am-text-middle">{$row.prepare_status}</td>
+                <td rowspan="{php}echo count($row['goods_name']){/php}" class="am-text-center am-text-middle">{$row.add_time | date="Y-m-d"}<br>{$row.add_time | date="H:i:s"}</td>
+                <td rowspan="{php}echo count($row['goods_name']){/php}" class="am-text-center am-text-middle">
+                   <button type="button" class="am-btn am-btn-primary am-round am-btn-sm">详情</button>
+                </td>
+                {/if}
+
+
+                <!--<td>14</td>-->
+                <!--<td><a href="#">Business management</a></td>-->
+                <!--<td>3件 （消费455个积分）</td>-->
+                <!--<td class="am-hide-sm-only">访问</td><td class="am-hide-sm-only">访问</td>-->
+                <!--<td class="am-hide-sm-only">2014年9月4日 7:28:47</td>-->
+                <!--<td>-->
+                    <!--<div class="am-btn-toolbar">-->
+                        <!--<div class="am-btn-group am-btn-group-xs">-->
+                            <!--<button class="am-btn am-btn-default am-btn-xs am-text-success am-round"><span class="am-icon-search" title="查看订单详情"></span> </button>-->
+                            <!--<button class="am-btn am-btn-default am-btn-xs am-text-secondary am-round" data-am-modal="{target: '#my-popups'}" title="修改订单"><span class="am-icon-pencil-square-o"></span></button>-->
+                            <!--<button class="am-btn am-btn-default am-btn-xs am-text-danger am-round" title="删除订单"><span class="am-icon-trash-o" ></span></button>-->
+                        <!--</div>-->
+                    <!--</div>-->
+                <!--</td>-->
+            </tr>
+            {/foreach}
+            <tr>
+                <td colspan="11"></td>
+            </tr>
+            {/volist}
+            </tbody>
+        </table>
+        {$page|raw}
+        <!--<ul class="am-pagination am-fr">-->
+            <!--<li class="am-disabled"><a href="#">«</a></li>-->
+            <!--<li class="am-active"><a href="#">1</a></li>-->
+            <!--<li><a href="#">2</a></li>-->
+            <!--<li><a href="#">3</a></li>-->
+            <!--<li><a href="#">4</a></li>-->
+            <!--<li><a href="#">5</a></li>-->
+            <!--<li><a href="#">»</a></li>-->
+        <!--</ul>-->
+    </form>
+
+
+
+
+
+
+{include file="footer"}

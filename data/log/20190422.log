@@ -1,0 +1,2486 @@
+---------------------------------------------------------------
+[2019-04-22T00:35:04+08:00] 192.241.190.136 POST 118.24.8.254/phpmyadmin/
+[运行时间：0.002263s] [吞吐率：441.88req/s] [内存消耗：309.20kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T00:35:04+08:00] 146.234.92.185 POST 118.24.8.254/phpmyadmin/
+[运行时间：0.001809s] [吞吐率：552.83req/s] [内存消耗：309.22kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T01:17:49+08:00] 192.241.190.136 POST 118.24.8.254/phpmyadmin/
+[运行时间：0.002022s] [吞吐率：494.55req/s] [内存消耗：309.22kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T01:17:49+08:00] 146.234.92.185 POST 118.24.8.254/phpmyadmin/
+[运行时间：0.002365s] [吞吐率：422.86req/s] [内存消耗：309.22kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T02:00:09+08:00] 192.241.190.136 POST 118.24.8.254/phpmyadmin/
+[运行时间：0.002581s] [吞吐率：387.43req/s] [内存消耗：309.22kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T02:00:31+08:00] 146.234.92.185 POST 118.24.8.254/phpmyadmin/
+[运行时间：0.002173s] [吞吐率：460.20req/s] [内存消耗：309.22kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T02:42:10+08:00] 192.241.190.136 POST 118.24.8.254/phpmyadmin/
+[运行时间：0.074238s] [吞吐率：13.47req/s] [内存消耗：309.22kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T02:42:51+08:00] 146.234.92.185 POST 118.24.8.254/phpmyadmin/
+[运行时间：0.001776s] [吞吐率：562.99req/s] [内存消耗：309.22kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T02:46:12+08:00] 36.101.53.83 GET 118.24.8.254/
+[运行时间：0.025373s] [吞吐率：39.41req/s] [内存消耗：343.73kb] [文件加载：69]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '118.24.8.254',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /www/wuliu/application/admin/view/login/index.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-04-22T03:00:36+08:00] 80.82.70.187 GET www.baidu.com/cache/global/img/gs.gif
+[运行时间：0.015452s] [吞吐率：64.72req/s] [内存消耗：311.16kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T03:24:12+08:00] 192.241.190.136 POST 118.24.8.254/phpmyadmin/
+[运行时间：0.002066s] [吞吐率：484.00req/s] [内存消耗：309.22kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T03:25:13+08:00] 146.234.92.185 POST 118.24.8.254/phpmyadmin/
+[运行时间：0.001821s] [吞吐率：549.14req/s] [内存消耗：309.22kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T04:06:21+08:00] 192.241.190.136 POST 118.24.8.254/phpmyadmin/
+[运行时间：0.002353s] [吞吐率：425.00req/s] [内存消耗：309.22kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T04:07:32+08:00] 146.234.92.185 POST 118.24.8.254/phpmyadmin/
+[运行时间：0.002605s] [吞吐率：383.85req/s] [内存消耗：309.22kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T04:28:55+08:00] 195.135.238.9 GET 118.24.8.254:80/
+[运行时间：0.003443s] [吞吐率：290.44req/s] [内存消耗：344.28kb] [文件加载：69]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36',
+  'host' => '118.24.8.254:80',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /www/wuliu/application/admin/view/login/index.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-04-22T04:37:32+08:00] 10.50.0.14 GET 118.24.8.254:80/
+[运行时间：0.002306s] [吞吐率：433.65req/s] [内存消耗：344.70kb] [文件加载：69]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'via' => '1.1 192.168.1.1 (Mikrotik HttpProxy)',
+  'x-forwarded-for' => '10.50.0.14',
+  'x-proxy-id' => '1977619794',
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36',
+  'host' => '118.24.8.254:80',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /www/wuliu/application/admin/view/login/index.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-04-22T04:48:32+08:00] 192.241.190.136 POST 118.24.8.254/phpmyadmin/
+[运行时间：0.001970s] [吞吐率：507.60req/s] [内存消耗：309.22kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T04:49:51+08:00] 146.234.92.185 POST 118.24.8.254/phpmyadmin/
+[运行时间：0.001945s] [吞吐率：514.13req/s] [内存消耗：309.22kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T05:23:43+08:00] 172.104.108.109 GET 118.24.8.254:80/
+[运行时间：0.002933s] [吞吐率：340.94req/s] [内存消耗：344.14kb] [文件加载：69]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'accept-encoding' => 'gzip',
+  'user-agent' => 'Go-http-client/1.1',
+  'host' => '118.24.8.254:80',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /www/wuliu/application/admin/view/login/index.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-04-22T05:25:38+08:00] 178.73.215.171 GET /
+[运行时间：0.002562s] [吞吐率：390.31req/s] [内存消耗：343.66kb] [文件加载：69]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept' => '*/*',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /www/wuliu/application/admin/view/login/index.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-04-22T05:30:50+08:00] 192.241.190.136 POST 118.24.8.254/phpmyadmin/
+[运行时间：0.002612s] [吞吐率：382.83req/s] [内存消耗：309.22kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T06:06:39+08:00] 5.154.54.215 GET 118.24.8.254:80/
+[运行时间：0.002648s] [吞吐率：377.63req/s] [内存消耗：344.28kb] [文件加载：69]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36',
+  'host' => '118.24.8.254:80',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /www/wuliu/application/admin/view/login/index.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-04-22T06:11:43+08:00] 177.67.8.54 GET 118.24.8.254:80/
+[运行时间：0.002438s] [吞吐率：410.20req/s] [内存消耗：344.28kb] [文件加载：69]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36',
+  'host' => '118.24.8.254:80',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /www/wuliu/application/admin/view/login/index.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-04-22T06:13:19+08:00] 192.241.190.136 POST 118.24.8.254/phpmyadmin/
+[运行时间：0.001885s] [吞吐率：530.52req/s] [内存消耗：309.22kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T06:14:30+08:00] 146.234.92.185 POST 118.24.8.254/phpmyadmin/
+[运行时间：0.001984s] [吞吐率：504.06req/s] [内存消耗：309.22kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T06:21:48+08:00] 95.170.116.59 GET 118.24.8.254:80/
+[运行时间：0.002741s] [吞吐率：364.82req/s] [内存消耗：344.28kb] [文件加载：69]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36',
+  'host' => '118.24.8.254:80',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /www/wuliu/application/admin/view/login/index.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-04-22T06:51:51+08:00] 190.153.224.124 POST 118.24.8.254/phpmyadmin/
+[运行时间：0.002355s] [吞吐率：424.65req/s] [内存消耗：309.22kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T06:56:04+08:00] 192.241.190.136 POST 118.24.8.254/phpmyadmin/
+[运行时间：0.002588s] [吞吐率：386.39req/s] [内存消耗：309.22kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T06:56:40+08:00] 146.234.92.185 POST 118.24.8.254/phpmyadmin/
+[运行时间：0.001860s] [吞吐率：537.66req/s] [内存消耗：309.22kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T07:22:13+08:00] 189.46.131.26 GET 118.24.8.254:80/
+[运行时间：0.030794s] [吞吐率：32.47req/s] [内存消耗：344.28kb] [文件加载：69]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36',
+  'host' => '118.24.8.254:80',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /www/wuliu/application/admin/view/login/index.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-04-22T07:38:35+08:00] 192.241.190.136 POST 118.24.8.254/phpmyadmin/
+[运行时间：0.002444s] [吞吐率：409.16req/s] [内存消耗：309.22kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T07:38:46+08:00] 146.234.92.185 POST 118.24.8.254/phpmyadmin/
+[运行时间：0.001751s] [吞吐率：571.12req/s] [内存消耗：309.22kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T07:51:11+08:00] 122.228.19.80 GET 118.24.8.254:443/
+[运行时间：0.002800s] [吞吐率：357.14req/s] [内存消耗：344.35kb] [文件加载：69]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:47.0) Gecko/20100101 Firefox/47.0',
+  'host' => '118.24.8.254:443',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /www/wuliu/application/admin/view/login/index.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-04-22T08:11:06+08:00] 14.17.3.65 GET 118.24.8.254/
+[运行时间：0.003085s] [吞吐率：324.16req/s] [内存消耗：345.02kb] [文件加载：69]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'Close',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_4 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G35 QQ/6.5.3.410 V1_IPH_SQ_6.5.3_1_APP_A Pixel/750 Core/UIWebView NetType/2G Mem/117',
+  'accept-language' => 'zh-cn',
+  'accept' => '*/*',
+  'accept-encoding' => 'deflate, gzip',
+  'host' => '118.24.8.254',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /www/wuliu/application/admin/view/login/index.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-04-22T08:21:24+08:00] 192.241.190.136 POST 118.24.8.254/phpmyadmin/
+[运行时间：0.002173s] [吞吐率：460.15req/s] [内存消耗：309.22kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T08:21:27+08:00] 146.234.92.185 POST 118.24.8.254/phpmyadmin/
+[运行时间：0.001655s] [吞吐率：604.28req/s] [内存消耗：309.22kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T08:35:48+08:00] 92.112.22.75 GET 118.24.8.254:80/
+[运行时间：0.003060s] [吞吐率：326.81req/s] [内存消耗：344.28kb] [文件加载：69]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36',
+  'host' => '118.24.8.254:80',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /www/wuliu/application/admin/view/login/index.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-04-22T08:58:16+08:00] 59.36.132.222 GET www.baidu.com/
+[运行时间：0.002735s] [吞吐率：365.61req/s] [内存消耗：344.44kb] [文件加载：69]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'proxy-connection' => 'Keep-Alive',
+  'accept' => '*/*',
+  'user-agent' => 'curl/7.19.7 (x86_64-redhat-linux-gnu) libcurl/7.19.7 NSS/3.13.1.0zlib/1.2.3 libidn/1.18 libssh2/1.2.2',
+  'host' => 'www.baidu.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /www/wuliu/application/admin/view/login/index.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-04-22T09:02:29+08:00] 58.136.218.171 GET 118.24.8.254:80/
+[运行时间：0.002371s] [吞吐率：421.75req/s] [内存消耗：344.28kb] [文件加载：69]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36',
+  'host' => '118.24.8.254:80',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /www/wuliu/application/admin/view/login/index.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-04-22T09:04:30+08:00] 192.241.190.136 POST 118.24.8.254/phpmyadmin/
+[运行时间：0.001905s] [吞吐率：524.88req/s] [内存消耗：309.22kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T09:04:32+08:00] 146.234.92.185 POST 118.24.8.254/phpmyadmin/
+[运行时间：0.002545s] [吞吐率：392.95req/s] [内存消耗：309.22kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T09:38:57+08:00] 168.121.139.86 GET 118.24.8.254/
+[运行时间：0.002899s] [吞吐率：344.93req/s] [内存消耗：344.64kb] [文件加载：69]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'Keep-Alive',
+  'accept-encoding' => '',
+  'user-agent' => 'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)',
+  'accept-language' => 'en-US',
+  'accept' => 'text/html, application/xhtml+xml, */*',
+  'host' => '118.24.8.254',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /www/wuliu/application/admin/view/login/index.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-04-22T09:47:33+08:00] 192.241.190.136 POST 118.24.8.254/phpmyadmin/
+[运行时间：0.002723s] [吞吐率：367.21req/s] [内存消耗：309.22kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T09:47:37+08:00] 146.234.92.185 POST 118.24.8.254/phpmyadmin/
+[运行时间：0.001756s] [吞吐率：569.49req/s] [内存消耗：309.22kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T10:30:18+08:00] 192.241.190.136 POST 118.24.8.254/phpmyadmin/
+[运行时间：0.002730s] [吞吐率：366.28req/s] [内存消耗：309.22kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T10:30:19+08:00] 146.234.92.185 POST 118.24.8.254/phpmyadmin/
+[运行时间：0.001952s] [吞吐率：512.25req/s] [内存消耗：309.22kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T10:36:07+08:00] 60.164.173.49 GET 118.24.8.254:80/manager/html
+[运行时间：0.002532s] [吞吐率：394.94req/s] [内存消耗：311.20kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T11:13:05+08:00] 192.241.190.136 POST 118.24.8.254/phpmyadmin/
+[运行时间：0.002086s] [吞吐率：479.40req/s] [内存消耗：309.22kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T11:13:06+08:00] 146.234.92.185 POST 118.24.8.254/phpmyadmin/
+[运行时间：0.001891s] [吞吐率：528.85req/s] [内存消耗：309.22kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T11:38:42+08:00] 74.82.47.5 GET 118.24.8.254/
+[运行时间：0.003330s] [吞吐率：300.30req/s] [内存消耗：343.73kb] [文件加载：69]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '118.24.8.254',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /www/wuliu/application/admin/view/login/index.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-04-22T11:42:08+08:00] 1.192.193.15 GET 118.24.8.254:443/
+[运行时间：0.002535s] [吞吐率：394.46req/s] [内存消耗：344.07kb] [文件加载：69]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'user-agent' => 'Go-http-client/1.1',
+  'host' => '118.24.8.254:443',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /www/wuliu/application/admin/view/login/index.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-04-22T11:50:44+08:00] 183.129.198.99 GET 118.24.8.254/
+[运行时间：0.002925s] [吞吐率：341.86req/s] [内存消耗：344.31kb] [文件加载：69]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'Keep-Alive',
+  'host' => '118.24.8.254',
+  'accept' => '*/*',
+  'user-agent' => 'User-Agent:Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; .NET CLR 1.0.3705',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /www/wuliu/application/admin/view/login/index.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-04-22T11:50:44+08:00] 183.129.198.99 GET 118.24.8.254/index.action
+[运行时间：0.001782s] [吞吐率：561.11req/s] [内存消耗：311.16kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T11:50:56+08:00] 183.129.198.99 GET 118.24.8.254/manager/html
+[运行时间：0.001769s] [吞吐率：565.27req/s] [内存消耗：311.16kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T11:56:14+08:00] 192.241.190.136 POST 118.24.8.254/phpmyadmin/
+[运行时间：0.002258s] [吞吐率：442.86req/s] [内存消耗：309.22kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T11:56:14+08:00] 146.234.92.185 POST 118.24.8.254/phpmyadmin/
+[运行时间：0.001689s] [吞吐率：592.08req/s] [内存消耗：309.22kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T12:39:45+08:00] 112.64.199.58 GET /
+[运行时间：0.011822s] [吞吐率：84.59req/s] [内存消耗：343.77kb] [文件加载：69]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept' => '*/*',
+  'user-agent' => 'asa',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /www/wuliu/application/admin/view/login/index.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-04-22T12:40:32+08:00] 192.241.190.136 POST 118.24.8.254/phpmyadmin/
+[运行时间：0.001873s] [吞吐率：533.90req/s] [内存消耗：309.22kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T12:40:32+08:00] 146.234.92.185 POST 118.24.8.254/phpmyadmin/
+[运行时间：0.001666s] [吞吐率：600.22req/s] [内存消耗：309.22kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T13:07:16+08:00] 80.82.70.187 GET www.baidu.com/cache/global/img/gs.gif
+[运行时间：0.002288s] [吞吐率：437.09req/s] [内存消耗：311.16kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T13:25:09+08:00] 146.234.92.185 POST 118.24.8.254/phpmyadmin/
+[运行时间：0.002165s] [吞吐率：461.88req/s] [内存消耗：309.22kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T13:25:10+08:00] 192.241.190.136 POST 118.24.8.254/phpmyadmin/
+[运行时间：0.001745s] [吞吐率：573.07req/s] [内存消耗：309.22kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T13:38:44+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[运行时间：0.201546s] [吞吐率：4.96req/s] [内存消耗：353.17kb] [文件加载：73]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'thinkphp_show_page_trace=0|2',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:66.0) Gecko/20100101 Firefox/66.0',
+  'host' => 'xiao.baiduzhixing.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[2019-04-22T13:38:52+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[运行时间：0.002546s] [吞吐率：392.76req/s] [内存消耗：352.08kb] [文件加载：73]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'thinkphp_show_page_trace=0|2',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:66.0) Gecko/20100101 Firefox/66.0',
+  'host' => 'xiao.baiduzhixing.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[2019-04-22T13:41:21+08:00] 179.111.61.20 GET 118.24.8.254:80/
+[运行时间：0.002898s] [吞吐率：345.07req/s] [内存消耗：344.28kb] [文件加载：69]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36',
+  'host' => '118.24.8.254:80',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /www/wuliu/application/admin/view/login/index.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-04-22T13:49:02+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[运行时间：1.102947s] [吞吐率：0.91req/s] [内存消耗：488.80kb] [文件加载：83]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'thinkphp_show_page_trace=0|2',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:66.0) Gecko/20100101 Firefox/66.0',
+  'host' => 'xiao.baiduzhixing.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] array (
+  'code' => 0,
+  'message' => '',
+  'requestId' => '932808075058193668',
+  'clientRequestId' => 0,
+  'msgId' => '562949953421364',
+  'receiptHandle' => '8071118396005727957',
+  'msgBody' => '{"model":"face","action":"DetectFace","msg":{"openid":"ojKG05OZrK8lvhep4fTgC4KnIYkc"}}',
+  'enqueueTime' => 1555556220,
+  'nextVisibleTime' => 1555912172,
+  'firstDequeueTime' => 1555556227,
+  'dequeueCount' => 2,
+)
+---------------------------------------------------------------
+[2019-04-22T13:50:52+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[运行时间：3.092044s] [吞吐率：0.32req/s] [内存消耗：483.55kb] [文件加载：83]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'thinkphp_show_page_trace=0|2',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:66.0) Gecko/20100101 Firefox/66.0',
+  'host' => 'xiao.baiduzhixing.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] array (
+  'code' => 4100,
+  'message' => '(10030)authentication failed',
+  'requestId' => '8321807688478728582',
+  'clientRequestId' => 0,
+)
+---------------------------------------------------------------
+[2019-04-22T13:51:49+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[运行时间：1.008804s] [吞吐率：0.99req/s] [内存消耗：482.46kb] [文件加载：83]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'thinkphp_show_page_trace=0|2',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:66.0) Gecko/20100101 Firefox/66.0',
+  'host' => 'xiao.baiduzhixing.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] array (
+  'code' => 4100,
+  'message' => '(10030)authentication failed',
+  'requestId' => '8321807688478758786',
+  'clientRequestId' => 0,
+)
+---------------------------------------------------------------
+[2019-04-22T13:52:03+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[运行时间：1.090808s] [吞吐率：0.92req/s] [内存消耗：482.32kb] [文件加载：83]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'thinkphp_show_page_trace=0|2',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:66.0) Gecko/20100101 Firefox/66.0',
+  'host' => 'xiao.baiduzhixing.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[2019-04-22T13:52:33+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[运行时间：4.135755s] [吞吐率：0.24req/s] [内存消耗：481.24kb] [文件加载：83]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'thinkphp_show_page_trace=0|2',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:66.0) Gecko/20100101 Firefox/66.0',
+  'host' => 'xiao.baiduzhixing.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[2019-04-22T13:52:58+08:00] 43.224.45.150 POST xiao.baiduzhixing.com/api/user/img
+[运行时间：0.201718s] [吞吐率：4.96req/s] [内存消耗：624.42kb] [文件加载：84]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '24946',
+  'host' => 'xiao.baiduzhixing.com',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1902010 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'referer' => 'https://servicewechat.com/wx4c3829d268004a40/devtools/page-frame.html',
+  'content-type' => 'multipart/form-data; boundary=--------------------------401848897647640668620513',
+)
+[ info ] [ PARAM ] array (
+  'openid' => 'ojKG05OZrK8lvhep4fTgC4KnIYkc',
+  'submit' => '1',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+[2019-04-22T13:54:10+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[运行时间：3.013298s] [吞吐率：0.33req/s] [内存消耗：488.63kb] [文件加载：83]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'thinkphp_show_page_trace=0|2',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:66.0) Gecko/20100101 Firefox/66.0',
+  'host' => 'xiao.baiduzhixing.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] array (
+  'code' => 0,
+  'message' => '',
+  'requestId' => '933089549150321319',
+  'clientRequestId' => 0,
+  'msgId' => '562949953421364',
+  'receiptHandle' => '8071161038524976230',
+  'msgBody' => '{"model":"face","action":"DetectFace","msg":{"openid":"ojKG05OZrK8lvhep4fTgC4KnIYkc"}}',
+  'enqueueTime' => 1555556220,
+  'nextVisibleTime' => 1555912480,
+  'firstDequeueTime' => 1555556227,
+  'dequeueCount' => 5,
+)
+---------------------------------------------------------------
+[2019-04-22T13:54:21+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[运行时间：1.086145s] [吞吐率：0.92req/s] [内存消耗：487.55kb] [文件加载：83]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'thinkphp_show_page_trace=0|2',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:66.0) Gecko/20100101 Firefox/66.0',
+  'host' => 'xiao.baiduzhixing.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] array (
+  'code' => 0,
+  'message' => '',
+  'requestId' => '8322370639323841421',
+  'clientRequestId' => 0,
+  'msgId' => '562949953421365',
+  'receiptHandle' => '8071062467886864666',
+  'msgBody' => '{"model":"form","msg":{"openid":"ojKG05OZrK8lvhep4fTgC4KnIYkc"},"type":"tx"}',
+  'enqueueTime' => 1555912378,
+  'nextVisibleTime' => 1555912491,
+  'firstDequeueTime' => 1555912461,
+  'dequeueCount' => 1,
+)
+---------------------------------------------------------------
+[2019-04-22T13:54:37+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[运行时间：3.376429s] [吞吐率：0.30req/s] [内存消耗：482.45kb] [文件加载：83]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'thinkphp_show_page_trace=0|2',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:66.0) Gecko/20100101 Firefox/66.0',
+  'host' => 'xiao.baiduzhixing.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] array (
+  'code' => 7000,
+  'message' => '(10200)no message',
+  'requestId' => '933089549150334631',
+  'clientRequestId' => 0,
+)
+---------------------------------------------------------------
+[2019-04-22T13:57:58+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[运行时间：3.011351s] [吞吐率：0.33req/s] [内存消耗：488.70kb] [文件加载：83]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'thinkphp_show_page_trace=0|2',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:66.0) Gecko/20100101 Firefox/66.0',
+  'host' => 'xiao.baiduzhixing.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] array (
+  'code' => 0,
+  'message' => '',
+  'requestId' => '8322370639323962012',
+  'clientRequestId' => 0,
+  'msgId' => '562949953421364',
+  'receiptHandle' => '8071258560795753930',
+  'msgBody' => '{"model":"face","action":"DetectFace","msg":{"openid":"ojKG05OZrK8lvhep4fTgC4KnIYkc"}}',
+  'enqueueTime' => 1555556220,
+  'nextVisibleTime' => 1555912708,
+  'firstDequeueTime' => 1555556227,
+  'dequeueCount' => 6,
+)
+---------------------------------------------------------------
+[2019-04-22T13:58:29+08:00] 40.83.100.237 GET 118.24.8.254/index.php
+[运行时间：0.002395s] [吞吐率：417.55req/s] [内存消耗：344.29kb] [文件加载：69]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (Windows; U; Windows NT 6.0;en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6)',
+  'host' => '118.24.8.254',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /www/wuliu/application/admin/view/login/index.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-04-22T13:58:31+08:00] 40.83.100.237 GET 118.24.8.254/index.php?s=index/\think\app/invokefunction&function=call_user_func_array&vars[0]=phpinfo&vars[1][]=1
+[运行时间：0.029987s] [吞吐率：33.35req/s] [内存消耗：344.39kb] [文件加载：66]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (Windows; U; Windows NT 6.0;en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6)',
+  'host' => '118.24.8.254',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'function' => 'call_user_func_array',
+  'vars' => 
+  array (
+    0 => 'phpinfo',
+    1 => 
+    array (
+      0 => '1',
+    ),
+  ),
+)
+---------------------------------------------------------------
+[2019-04-22T13:58:31+08:00] 40.83.100.237 __CONSTRUCT 118.24.8.254/index.php?s=captcha
+[运行时间：0.033654s] [吞吐率：29.71req/s] [内存消耗：242.76kb] [文件加载：54]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T13:58:32+08:00] 40.83.100.237 GET 118.24.8.254:80/
+[运行时间：0.002369s] [吞吐率：422.13req/s] [内存消耗：344.36kb] [文件加载：69]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (Windows; U; Windows NT 6.0;en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6)',
+  'host' => '118.24.8.254:80',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /www/wuliu/application/admin/view/login/index.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-04-22T13:59:51+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[运行时间：3.010284s] [吞吐率：0.33req/s] [内存消耗：487.62kb] [文件加载：83]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'thinkphp_show_page_trace=0|2',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:66.0) Gecko/20100101 Firefox/66.0',
+  'host' => 'xiao.baiduzhixing.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] array (
+  'code' => 0,
+  'message' => '',
+  'requestId' => '8321807688479024932',
+  'clientRequestId' => 0,
+  'msgId' => '562949953421364',
+  'receiptHandle' => '8071166150156424627',
+  'msgBody' => '{"model":"face","action":"DetectFace","msg":{"openid":"ojKG05OZrK8lvhep4fTgC4KnIYkc"}}',
+  'enqueueTime' => 1555556220,
+  'nextVisibleTime' => 1555912821,
+  'firstDequeueTime' => 1555556227,
+  'dequeueCount' => 7,
+)
+---------------------------------------------------------------
+[2019-04-22T14:01:15+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[运行时间：3.080994s] [吞吐率：0.32req/s] [内存消耗：488.70kb] [文件加载：83]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'thinkphp_show_page_trace=0|2',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:66.0) Gecko/20100101 Firefox/66.0',
+  'host' => 'xiao.baiduzhixing.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] array (
+  'code' => 0,
+  'message' => '',
+  'requestId' => '2647835108610633909',
+  'clientRequestId' => 0,
+  'msgId' => '562949953421364',
+  'receiptHandle' => '8071048564832223184',
+  'msgBody' => '{"model":"face","action":"DetectFace","msg":{"openid":"ojKG05OZrK8lvhep4fTgC4KnIYkc"}}',
+  'enqueueTime' => 1555556220,
+  'nextVisibleTime' => 1555912905,
+  'firstDequeueTime' => 1555556227,
+  'dequeueCount' => 8,
+)
+---------------------------------------------------------------
+[2019-04-22T14:02:51+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[运行时间：3.088871s] [吞吐率：0.32req/s] [内存消耗：482.32kb] [文件加载：83]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'thinkphp_show_page_trace=0|2',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:66.0) Gecko/20100101 Firefox/66.0',
+  'host' => 'xiao.baiduzhixing.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[2019-04-22T14:03:09+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[运行时间：2.011755s] [吞吐率：0.50req/s] [内存消耗：481.24kb] [文件加载：83]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'thinkphp_show_page_trace=0|2',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:66.0) Gecko/20100101 Firefox/66.0',
+  'host' => 'xiao.baiduzhixing.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[2019-04-22T14:08:54+08:00] 192.241.190.136 POST 118.24.8.254/phpmyadmin/
+[运行时间：0.002004s] [吞吐率：499.02req/s] [内存消耗：309.22kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T14:10:28+08:00] 106.15.229.173 GET 118.24.8.254:80/
+[运行时间：0.002562s] [吞吐率：390.31req/s] [内存消耗：344.36kb] [文件加载：69]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (Windows; U; Windows NT 6.0;en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6)',
+  'host' => '118.24.8.254:80',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /www/wuliu/application/admin/view/login/index.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-04-22T14:13:43+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[运行时间：1.084449s] [吞吐率：0.92req/s] [内存消耗：483.54kb] [文件加载：83]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'thinkphp_show_page_trace=0|2',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:66.0) Gecko/20100101 Firefox/66.0',
+  'host' => 'xiao.baiduzhixing.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] array (
+  'code' => 4100,
+  'message' => '(10030)authentication failed',
+  'requestId' => '933089549150969123',
+  'clientRequestId' => 0,
+)
+---------------------------------------------------------------
+[2019-04-22T14:15:44+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[运行时间：1.090546s] [吞吐率：0.92req/s] [内存消耗：484.07kb] [文件加载：83]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'thinkphp_show_page_trace=0|2',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:66.0) Gecko/20100101 Firefox/66.0',
+  'host' => 'xiao.baiduzhixing.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] {"code":4100,"message":"(10030)authentication failed","requestId":"2648398057452456899","clientRequestId":0}
+[ info ] array (
+  'code' => 4100,
+  'message' => '(10030)authentication failed',
+  'requestId' => '2648398057452456899',
+  'clientRequestId' => 0,
+)
+---------------------------------------------------------------
+[2019-04-22T14:15:52+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[运行时间：3.076419s] [吞吐率：0.33req/s] [内存消耗：482.99kb] [文件加载：83]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'thinkphp_show_page_trace=0|2',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:66.0) Gecko/20100101 Firefox/66.0',
+  'host' => 'xiao.baiduzhixing.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] {"code":4100,"message":"(10030)authentication failed","requestId":"2647835108611118763","clientRequestId":0}
+[ info ] array (
+  'code' => 4100,
+  'message' => '(10030)authentication failed',
+  'requestId' => '2647835108611118763',
+  'clientRequestId' => 0,
+)
+---------------------------------------------------------------
+[2019-04-22T14:16:58+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[运行时间：3.081378s] [吞吐率：0.32req/s] [内存消耗：482.99kb] [文件加载：83]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'thinkphp_show_page_trace=0|2',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:66.0) Gecko/20100101 Firefox/66.0',
+  'host' => 'xiao.baiduzhixing.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] {"code":4100,"message":"(10030)authentication failed","requestId":"8322370639324590118","clientRequestId":0}
+[ info ] array (
+  'code' => 4100,
+  'message' => '(10030)authentication failed',
+  'requestId' => '8322370639324590118',
+  'clientRequestId' => 0,
+)
+---------------------------------------------------------------
+[2019-04-22T14:20:21+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[运行时间：2.086234s] [吞吐率：0.48req/s] [内存消耗：482.99kb] [文件加载：83]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'thinkphp_show_page_trace=0|2',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:66.0) Gecko/20100101 Firefox/66.0',
+  'host' => 'xiao.baiduzhixing.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] {"code":4100,"message":"(10030)authentication failed","requestId":"8321807688479704340","clientRequestId":0}
+[ info ] array (
+  'code' => 4100,
+  'message' => '(10030)authentication failed',
+  'requestId' => '8321807688479704340',
+  'clientRequestId' => 0,
+)
+---------------------------------------------------------------
+[2019-04-22T14:25:51+08:00] 106.121.64.135 POST xiao.baiduzhixing.com/api/user/index
+[运行时间：0.293482s] [吞吐率：3.41req/s] [内存消耗：439.41kb] [文件加载：75]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'Keep-Alive',
+  'host' => 'xiao.baiduzhixing.com',
+  'content-length' => '58',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 8.0.0; LLD-AL00 Build/HONORLLD-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 MicroMessenger/7.0.3.1400(0x27000334) Process/appbrand0 NetType/4G Language/zh_CN',
+  'content-type' => 'application/json',
+  'referer' => 'https://servicewechat.com/wx4c3829d268004a40/0/page-frame.html',
+  'accept-encoding' => 'gzip',
+  'charset' => 'utf-8',
+)
+[ info ] [ PARAM ] array (
+  'code' => '0619ToJi0g1D9p17KkGi0nj7Ji09ToJc',
+  'type' => 'login',
+)
+---------------------------------------------------------------
+[2019-04-22T14:25:58+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[运行时间：1.178420s] [吞吐率：0.85req/s] [内存消耗：487.39kb] [文件加载：78]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'thinkphp_show_page_trace=0|2',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:66.0) Gecko/20100101 Firefox/66.0',
+  'host' => 'xiao.baiduzhixing.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] {"code":0,"message":"","requestId":"2648116582444010496","clientRequestId":0,"msgId":"562949953421364","receiptHandle":"8071188807429996265","msgBody":"{\"model\":\"face\",\"action\":\"DetectFace\",\"msg\":{\"openid\":\"ojKG05OZrK8lvhep4fTgC4KnIYkc\"}}","enqueueTime":1555556220,"nextVisibleTime":1555914388,"firstDequeueTime":1555556227,"dequeueCount":10}
+[ info ] array (
+  'code' => 0,
+  'message' => '',
+  'requestId' => '2648116582444010496',
+  'clientRequestId' => 0,
+  'msgId' => '562949953421364',
+  'receiptHandle' => '8071188807429996265',
+  'msgBody' => '{"model":"face","action":"DetectFace","msg":{"openid":"ojKG05OZrK8lvhep4fTgC4KnIYkc"}}',
+  'enqueueTime' => 1555556220,
+  'nextVisibleTime' => 1555914388,
+  'firstDequeueTime' => 1555556227,
+  'dequeueCount' => 10,
+)
+---------------------------------------------------------------
+[2019-04-22T14:34:21+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[运行时间：2.093105s] [吞吐率：0.48req/s] [内存消耗：485.20kb] [文件加载：80]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'thinkphp_show_page_trace=0|2',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:66.0) Gecko/20100101 Firefox/66.0',
+  'host' => 'xiao.baiduzhixing.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] array (
+  'code' => 0,
+  'message' => '',
+  'requestId' => '933089549151651382',
+  'clientRequestId' => 0,
+  'msgId' => '562949953421365',
+  'receiptHandle' => '8071036280077035896',
+  'msgBody' => '{"model":"form","msg":{"openid":"ojKG05OZrK8lvhep4fTgC4KnIYkc"},"type":"tx"}',
+  'enqueueTime' => 1555912378,
+  'nextVisibleTime' => 1555914891,
+  'firstDequeueTime' => 1555912461,
+  'dequeueCount' => 3,
+)
+---------------------------------------------------------------
+[2019-04-22T14:35:56+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[运行时间：1.088393s] [吞吐率：0.92req/s] [内存消耗：485.13kb] [文件加载：80]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'thinkphp_show_page_trace=0|2',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:66.0) Gecko/20100101 Firefox/66.0',
+  'host' => 'xiao.baiduzhixing.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] array (
+  'code' => 0,
+  'message' => '',
+  'requestId' => '837388057817364112',
+  'clientRequestId' => 0,
+  'msgId' => '562949953421365',
+  'receiptHandle' => '8071048709902319636',
+  'msgBody' => '{"model":"form","msg":{"openid":"ojKG05OZrK8lvhep4fTgC4KnIYkc"},"type":"tx"}',
+  'enqueueTime' => 1555912378,
+  'nextVisibleTime' => 1555914986,
+  'firstDequeueTime' => 1555912461,
+  'dequeueCount' => 4,
+)
+---------------------------------------------------------------
+[2019-04-22T14:37:13+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[运行时间：2.082129s] [吞吐率：0.48req/s] [内存消耗：476.47kb] [文件加载：78]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'thinkphp_show_page_trace=0|2',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:66.0) Gecko/20100101 Firefox/66.0',
+  'host' => 'xiao.baiduzhixing.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] array (
+  'code' => 4100,
+  'message' => '(10030)authentication failed',
+  'requestId' => '837951007805467967',
+  'clientRequestId' => 0,
+)
+---------------------------------------------------------------
+[2019-04-22T14:37:34+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[运行时间：2.079513s] [吞吐率：0.48req/s] [内存消耗：476.47kb] [文件加载：78]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'thinkphp_show_page_trace=0|2',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:66.0) Gecko/20100101 Firefox/66.0',
+  'host' => 'xiao.baiduzhixing.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] array (
+  'code' => 4100,
+  'message' => '(10030)authentication failed',
+  'requestId' => '2648116582444396656',
+  'clientRequestId' => 0,
+)
+---------------------------------------------------------------
+[2019-04-22T14:37:47+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[运行时间：3.085120s] [吞吐率：0.32req/s] [内存消耗：484.05kb] [文件加载：80]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'thinkphp_show_page_trace=0|2',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:66.0) Gecko/20100101 Firefox/66.0',
+  'host' => 'xiao.baiduzhixing.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] array (
+  'code' => 0,
+  'message' => '',
+  'requestId' => '8321807688480282302',
+  'clientRequestId' => 0,
+  'msgId' => '562949953421365',
+  'receiptHandle' => '8071240865533107610',
+  'msgBody' => '{"model":"form","msg":{"openid":"ojKG05OZrK8lvhep4fTgC4KnIYkc"},"type":"tx"}',
+  'enqueueTime' => 1555912378,
+  'nextVisibleTime' => 1555915068,
+  'firstDequeueTime' => 1555912461,
+  'dequeueCount' => 5,
+)
+---------------------------------------------------------------
+[2019-04-22T14:40:20+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[运行时间：1.085829s] [吞吐率：0.92req/s] [内存消耗：484.05kb] [文件加载：80]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'thinkphp_show_page_trace=0|2',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:66.0) Gecko/20100101 Firefox/66.0',
+  'host' => 'xiao.baiduzhixing.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] array (
+  'code' => 0,
+  'message' => '',
+  'requestId' => '8322089163708355207',
+  'clientRequestId' => 0,
+  'msgId' => '562949953421365',
+  'receiptHandle' => '8071190037553692966',
+  'msgBody' => '{"model":"form","msg":{"openid":"ojKG05OZrK8lvhep4fTgC4KnIYkc"},"type":"tx"}',
+  'enqueueTime' => 1555912378,
+  'nextVisibleTime' => 1555915221,
+  'firstDequeueTime' => 1555912461,
+  'dequeueCount' => 6,
+)
+---------------------------------------------------------------
+[2019-04-22T14:40:41+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[运行时间：3.091540s] [吞吐率：0.32req/s] [内存消耗：476.47kb] [文件加载：78]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'thinkphp_show_page_trace=0|2',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:66.0) Gecko/20100101 Firefox/66.0',
+  'host' => 'xiao.baiduzhixing.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] array (
+  'code' => 4100,
+  'message' => '(10030)authentication failed',
+  'requestId' => '2647835108611939277',
+  'clientRequestId' => 0,
+)
+---------------------------------------------------------------
+[2019-04-22T14:40:44+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[运行时间：1.006394s] [吞吐率：0.99req/s] [内存消耗：476.47kb] [文件加载：78]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'thinkphp_show_page_trace=0|2',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:66.0) Gecko/20100101 Firefox/66.0',
+  'host' => 'xiao.baiduzhixing.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] array (
+  'code' => 4100,
+  'message' => '(10030)authentication failed',
+  'requestId' => '933089549151863322',
+  'clientRequestId' => 0,
+)
+---------------------------------------------------------------
+[2019-04-22T14:40:51+08:00] 43.224.45.150 POST xiao.baiduzhixing.com/api/user/img
+[运行时间：0.113624s] [吞吐率：8.80req/s] [内存消耗：625.45kb] [文件加载：85]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '24946',
+  'host' => 'xiao.baiduzhixing.com',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1902010 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'referer' => 'https://servicewechat.com/wx4c3829d268004a40/devtools/page-frame.html',
+  'content-type' => 'multipart/form-data; boundary=--------------------------006036694382505946245801',
+)
+[ info ] [ PARAM ] array (
+  'openid' => 'ojKG05OZrK8lvhep4fTgC4KnIYkc',
+  'submit' => '1',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+[2019-04-22T14:40:54+08:00] 43.224.45.150 POST xiao.baiduzhixing.com/api/user/img
+[运行时间：0.148047s] [吞吐率：6.75req/s] [内存消耗：624.42kb] [文件加载：84]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '24946',
+  'host' => 'xiao.baiduzhixing.com',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1902010 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'referer' => 'https://servicewechat.com/wx4c3829d268004a40/devtools/page-frame.html',
+  'content-type' => 'multipart/form-data; boundary=--------------------------189668273808365934161940',
+)
+[ info ] [ PARAM ] array (
+  'openid' => 'ojKG05OZrK8lvhep4fTgC4KnIYkc',
+  'submit' => '1',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+[2019-04-22T14:40:56+08:00] 43.224.45.150 POST xiao.baiduzhixing.com/api/user/img
+[运行时间：0.102565s] [吞吐率：9.75req/s] [内存消耗：625.45kb] [文件加载：85]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '24946',
+  'host' => 'xiao.baiduzhixing.com',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1902010 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'referer' => 'https://servicewechat.com/wx4c3829d268004a40/devtools/page-frame.html',
+  'content-type' => 'multipart/form-data; boundary=--------------------------938227611379793197821367',
+)
+[ info ] [ PARAM ] array (
+  'openid' => 'ojKG05OZrK8lvhep4fTgC4KnIYkc',
+  'submit' => '1',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+[2019-04-22T14:40:59+08:00] 43.224.45.150 POST xiao.baiduzhixing.com/api/user/img
+[运行时间：0.034211s] [吞吐率：29.23req/s] [内存消耗：624.42kb] [文件加载：84]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '24946',
+  'host' => 'xiao.baiduzhixing.com',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1902010 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'referer' => 'https://servicewechat.com/wx4c3829d268004a40/devtools/page-frame.html',
+  'content-type' => 'multipart/form-data; boundary=--------------------------190511168031325706000370',
+)
+[ info ] [ PARAM ] array (
+  'openid' => 'ojKG05OZrK8lvhep4fTgC4KnIYkc',
+  'submit' => '1',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+[2019-04-22T14:44:39+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[运行时间：3.010488s] [吞吐率：0.33req/s] [内存消耗：485.13kb] [文件加载：80]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'thinkphp_show_page_trace=0|2',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:66.0) Gecko/20100101 Firefox/66.0',
+  'host' => 'xiao.baiduzhixing.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] array (
+  'code' => 0,
+  'message' => '',
+  'requestId' => '2648116582444630864',
+  'clientRequestId' => 0,
+  'msgId' => '562949953421365',
+  'receiptHandle' => '8071168186107238759',
+  'msgBody' => '{"model":"form","msg":{"openid":"ojKG05OZrK8lvhep4fTgC4KnIYkc"},"type":"tx"}',
+  'enqueueTime' => 1555912378,
+  'nextVisibleTime' => 1555915480,
+  'firstDequeueTime' => 1555912461,
+  'dequeueCount' => 7,
+)
+---------------------------------------------------------------
+[2019-04-22T14:45:07+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[运行时间：3.009947s] [吞吐率：0.33req/s] [内存消耗：484.05kb] [文件加载：80]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'thinkphp_show_page_trace=0|2',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:66.0) Gecko/20100101 Firefox/66.0',
+  'host' => 'xiao.baiduzhixing.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] array (
+  'code' => 0,
+  'message' => '',
+  'requestId' => '8322089163708513520',
+  'clientRequestId' => 0,
+  'msgId' => '562949953421365',
+  'receiptHandle' => '8071260330932420867',
+  'msgBody' => '{"model":"form","msg":{"openid":"ojKG05OZrK8lvhep4fTgC4KnIYkc"},"type":"tx"}',
+  'enqueueTime' => 1555912378,
+  'nextVisibleTime' => 1555915508,
+  'firstDequeueTime' => 1555912461,
+  'dequeueCount' => 8,
+)
+---------------------------------------------------------------
+[2019-04-22T14:45:11+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[运行时间：1.011427s] [吞吐率：0.99req/s] [内存消耗：484.05kb] [文件加载：80]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'thinkphp_show_page_trace=0|2',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:66.0) Gecko/20100101 Firefox/66.0',
+  'host' => 'xiao.baiduzhixing.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] array (
+  'code' => 0,
+  'message' => '',
+  'requestId' => '837951007805732124',
+  'clientRequestId' => 0,
+  'msgId' => '562949953421365',
+  'receiptHandle' => '8071221412818156088',
+  'msgBody' => '{"model":"form","msg":{"openid":"ojKG05OZrK8lvhep4fTgC4KnIYkc"},"type":"tx"}',
+  'enqueueTime' => 1555912378,
+  'nextVisibleTime' => 1555915512,
+  'firstDequeueTime' => 1555912461,
+  'dequeueCount' => 9,
+)
+---------------------------------------------------------------
+[2019-04-22T14:45:19+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[运行时间：3.006150s] [吞吐率：0.33req/s] [内存消耗：476.47kb] [文件加载：78]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'thinkphp_show_page_trace=0|2',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:66.0) Gecko/20100101 Firefox/66.0',
+  'host' => 'xiao.baiduzhixing.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] array (
+  'code' => 4100,
+  'message' => '(10030)authentication failed',
+  'requestId' => '8322089163708520209',
+  'clientRequestId' => 0,
+)
+---------------------------------------------------------------
+[2019-04-22T14:45:25+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[运行时间：2.006530s] [吞吐率：0.50req/s] [内存消耗：476.47kb] [文件加载：78]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'thinkphp_show_page_trace=0|2',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:66.0) Gecko/20100101 Firefox/66.0',
+  'host' => 'xiao.baiduzhixing.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] array (
+  'code' => 4100,
+  'message' => '(10030)authentication failed',
+  'requestId' => '8322370639325532699',
+  'clientRequestId' => 0,
+)
+---------------------------------------------------------------
+[2019-04-22T14:45:29+08:00] 43.224.45.150 POST xiao.baiduzhixing.com/api/user/img
+[运行时间：0.109740s] [吞吐率：9.11req/s] [内存消耗：624.42kb] [文件加载：84]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '24946',
+  'host' => 'xiao.baiduzhixing.com',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1902010 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'referer' => 'https://servicewechat.com/wx4c3829d268004a40/devtools/page-frame.html',
+  'content-type' => 'multipart/form-data; boundary=--------------------------378941554485606189264859',
+)
+[ info ] [ PARAM ] array (
+  'openid' => 'ojKG05OZrK8lvhep4fTgC4KnIYkc',
+  'submit' => '1',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+[2019-04-22T14:45:41+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[运行时间：1.010882s] [吞吐率：0.99req/s] [内存消耗：485.13kb] [文件加载：80]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'thinkphp_show_page_trace=0|2',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:66.0) Gecko/20100101 Firefox/66.0',
+  'host' => 'xiao.baiduzhixing.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] array (
+  'code' => 0,
+  'message' => '',
+  'requestId' => '837388057817687103',
+  'clientRequestId' => 0,
+  'msgId' => '562949953421365',
+  'receiptHandle' => '8071255526114703429',
+  'msgBody' => '{"model":"form","msg":{"openid":"ojKG05OZrK8lvhep4fTgC4KnIYkc"},"type":"tx"}',
+  'enqueueTime' => 1555912378,
+  'nextVisibleTime' => 1555915542,
+  'firstDequeueTime' => 1555912461,
+  'dequeueCount' => 10,
+)
+---------------------------------------------------------------
+[2019-04-22T14:45:59+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[运行时间：3.006735s] [吞吐率：0.33req/s] [内存消耗：484.05kb] [文件加载：80]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'thinkphp_show_page_trace=0|2',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:66.0) Gecko/20100101 Firefox/66.0',
+  'host' => 'xiao.baiduzhixing.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] array (
+  'code' => 0,
+  'message' => '',
+  'requestId' => '837951007805760459',
+  'clientRequestId' => 0,
+  'msgId' => '562949953421365',
+  'receiptHandle' => '8071162946495516639',
+  'msgBody' => '{"model":"form","msg":{"openid":"ojKG05OZrK8lvhep4fTgC4KnIYkc"},"type":"tx"}',
+  'enqueueTime' => 1555912378,
+  'nextVisibleTime' => 1555915560,
+  'firstDequeueTime' => 1555912461,
+  'dequeueCount' => 11,
+)
+---------------------------------------------------------------
+[2019-04-22T14:46:25+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[运行时间：1.009497s] [吞吐率：0.99req/s] [内存消耗：484.05kb] [文件加载：80]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'thinkphp_show_page_trace=0|2',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:66.0) Gecko/20100101 Firefox/66.0',
+  'host' => 'xiao.baiduzhixing.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] array (
+  'code' => 0,
+  'message' => '',
+  'requestId' => '2648116582444689345',
+  'clientRequestId' => 0,
+  'msgId' => '562949953421365',
+  'receiptHandle' => '8071240998250454488',
+  'msgBody' => '{"model":"form","msg":{"openid":"ojKG05OZrK8lvhep4fTgC4KnIYkc"},"type":"tx"}',
+  'enqueueTime' => 1555912378,
+  'nextVisibleTime' => 1555915586,
+  'firstDequeueTime' => 1555912461,
+  'dequeueCount' => 12,
+)
+---------------------------------------------------------------
+[2019-04-22T14:46:35+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[运行时间：2.087430s] [吞吐率：0.48req/s] [内存消耗：484.05kb] [文件加载：80]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'thinkphp_show_page_trace=0|2',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:66.0) Gecko/20100101 Firefox/66.0',
+  'host' => 'xiao.baiduzhixing.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] array (
+  'code' => 0,
+  'message' => '',
+  'requestId' => '932526600861658347',
+  'clientRequestId' => 0,
+  'msgId' => '562949953421365',
+  'receiptHandle' => '8071210062045078930',
+  'msgBody' => '{"model":"form","msg":{"openid":"ojKG05OZrK8lvhep4fTgC4KnIYkc"},"type":"tx"}',
+  'enqueueTime' => 1555912378,
+  'nextVisibleTime' => 1555915596,
+  'firstDequeueTime' => 1555912461,
+  'dequeueCount' => 13,
+)
+---------------------------------------------------------------
+[2019-04-22T14:46:41+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[运行时间：2.075922s] [吞吐率：0.48req/s] [内存消耗：476.47kb] [文件加载：78]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'thinkphp_show_page_trace=0|2',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:66.0) Gecko/20100101 Firefox/66.0',
+  'host' => 'xiao.baiduzhixing.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] array (
+  'code' => 4100,
+  'message' => '(10030)authentication failed',
+  'requestId' => '932808075060103441',
+  'clientRequestId' => 0,
+)
+---------------------------------------------------------------
+[2019-04-22T14:46:49+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[运行时间：2.005859s] [吞吐率：0.50req/s] [内存消耗：477.55kb] [文件加载：78]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'thinkphp_show_page_trace=0|2',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:66.0) Gecko/20100101 Firefox/66.0',
+  'host' => 'xiao.baiduzhixing.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] array (
+  'code' => 4100,
+  'message' => '(10030)authentication failed',
+  'requestId' => '8322089163708569194',
+  'clientRequestId' => 0,
+)
+---------------------------------------------------------------
+[2019-04-22T14:46:53+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[运行时间：2.013003s] [吞吐率：0.50req/s] [内存消耗：484.05kb] [文件加载：80]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'thinkphp_show_page_trace=0|2',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:66.0) Gecko/20100101 Firefox/66.0',
+  'host' => 'xiao.baiduzhixing.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] array (
+  'code' => 0,
+  'message' => '',
+  'requestId' => '8322370639325581787',
+  'clientRequestId' => 0,
+  'msgId' => '562949953421365',
+  'receiptHandle' => '8071035100670601042',
+  'msgBody' => '{"model":"form","msg":{"openid":"ojKG05OZrK8lvhep4fTgC4KnIYkc"},"type":"tx"}',
+  'enqueueTime' => 1555912378,
+  'nextVisibleTime' => 1555915614,
+  'firstDequeueTime' => 1555912461,
+  'dequeueCount' => 14,
+)
+---------------------------------------------------------------
+[2019-04-22T14:47:50+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[运行时间：3.006547s] [吞吐率：0.33req/s] [内存消耗：476.47kb] [文件加载：78]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'thinkphp_show_page_trace=0|2',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:66.0) Gecko/20100101 Firefox/66.0',
+  'host' => 'xiao.baiduzhixing.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] array (
+  'code' => 4100,
+  'message' => '(10030)authentication failed',
+  'requestId' => '8321807688480613069',
+  'clientRequestId' => 0,
+)
+---------------------------------------------------------------
+[2019-04-22T14:47:55+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[运行时间：2.011023s] [吞吐率：0.50req/s] [内存消耗：485.13kb] [文件加载：80]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'thinkphp_show_page_trace=0|2',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:66.0) Gecko/20100101 Firefox/66.0',
+  'host' => 'xiao.baiduzhixing.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] array (
+  'code' => 0,
+  'message' => '',
+  'requestId' => '8321807688480615558',
+  'clientRequestId' => 0,
+  'msgId' => '562949953421365',
+  'receiptHandle' => '8071096746175534964',
+  'msgBody' => '{"model":"form","msg":{"openid":"ojKG05OZrK8lvhep4fTgC4KnIYkc"},"type":"tx"}',
+  'enqueueTime' => 1555912378,
+  'nextVisibleTime' => 1555915676,
+  'firstDequeueTime' => 1555912461,
+  'dequeueCount' => 15,
+)
+---------------------------------------------------------------
+[2019-04-22T14:49:08+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[运行时间：1.007461s] [吞吐率：0.99req/s] [内存消耗：477.55kb] [文件加载：78]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'thinkphp_show_page_trace=0|2',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:66.0) Gecko/20100101 Firefox/66.0',
+  'host' => 'xiao.baiduzhixing.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] array (
+  'code' => 4100,
+  'message' => '(10030)authentication failed',
+  'requestId' => '8322089163708647600',
+  'clientRequestId' => 0,
+)
+---------------------------------------------------------------
+[2019-04-22T14:49:16+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[运行时间：3.010311s] [吞吐率：0.33req/s] [内存消耗：493.97kb] [文件加载：79]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'thinkphp_show_page_trace=0|2',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:66.0) Gecko/20100101 Firefox/66.0',
+  'host' => 'xiao.baiduzhixing.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] array (
+  'code' => 0,
+  'message' => '',
+  'requestId' => '837951007805868914',
+  'clientRequestId' => 0,
+  'msgId' => '562949953421365',
+  'receiptHandle' => '8071172890105160181',
+  'msgBody' => '{"model":"form","msg":{"openid":"ojKG05OZrK8lvhep4fTgC4KnIYkc"},"type":"tx"}',
+  'enqueueTime' => 1555912378,
+  'nextVisibleTime' => 1555915757,
+  'firstDequeueTime' => 1555912461,
+  'dequeueCount' => 16,
+)
+---------------------------------------------------------------
+[2019-04-22T14:52:12+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[运行时间：3.007905s] [吞吐率：0.33req/s] [内存消耗：477.55kb] [文件加载：78]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'thinkphp_show_page_trace=0|2',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:66.0) Gecko/20100101 Firefox/66.0',
+  'host' => 'xiao.baiduzhixing.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] array (
+  'code' => 4100,
+  'message' => '(10030)authentication failed',
+  'requestId' => '8322089163708748377',
+  'clientRequestId' => 0,
+)
+---------------------------------------------------------------
+[2019-04-22T14:52:17+08:00] 43.224.45.150 GET xiao.baiduzhixing.com/api/user/ceshi
+[运行时间：3.009859s] [吞吐率：0.33req/s] [内存消耗：493.97kb] [文件加载：79]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'thinkphp_show_page_trace=0|2',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:66.0) Gecko/20100101 Firefox/66.0',
+  'host' => 'xiao.baiduzhixing.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] array (
+  'code' => 0,
+  'message' => '',
+  'requestId' => '932526600861846781',
+  'clientRequestId' => 0,
+  'msgId' => '562949953421365',
+  'receiptHandle' => '8071267959428861667',
+  'msgBody' => '{"model":"form","msg":{"openid":"ojKG05OZrK8lvhep4fTgC4KnIYkc"},"type":"tx"}',
+  'enqueueTime' => 1555912378,
+  'nextVisibleTime' => 1555915938,
+  'firstDequeueTime' => 1555912461,
+  'dequeueCount' => 17,
+)
+---------------------------------------------------------------
+[2019-04-22T14:52:29+08:00] 192.241.190.136 POST 118.24.8.254/phpmyadmin/
+[运行时间：0.001992s] [吞吐率：502.01req/s] [内存消耗：309.22kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T14:54:00+08:00] 146.234.92.185 POST 118.24.8.254/phpmyadmin/
+[运行时间：0.002092s] [吞吐率：477.98req/s] [内存消耗：309.22kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T14:55:53+08:00] 147.154.117.138 GET 118.24.8.254/index.php
+[运行时间：0.003104s] [吞吐率：322.14req/s] [内存消耗：344.73kb] [文件加载：69]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'Keep-Alive',
+  'host' => '118.24.8.254',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:18.0) Gecko/20100101 Firefox/18.0',
+  'content-type' => 'text/html',
+  'accept' => 'text/html, application/xhtml+xml, */*',
+  'x-forwarded-for' => '147.154.117.138',
+  'client-ip' => '147.154.117.138',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /www/wuliu/application/admin/view/login/index.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-04-22T15:15:35+08:00] 43.224.45.150 POST xiao.baiduzhixing.com/api/user/img
+[运行时间：0.162763s] [吞吐率：6.14req/s] [内存消耗：579.27kb] [文件加载：86]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '24946',
+  'host' => 'xiao.baiduzhixing.com',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1902010 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'referer' => 'https://servicewechat.com/wx4c3829d268004a40/devtools/page-frame.html',
+  'content-type' => 'multipart/form-data; boundary=--------------------------362755905721608869239004',
+)
+[ info ] [ PARAM ] array (
+  'openid' => 'ojKG05OZrK8lvhep4fTgC4KnIYkc',
+  'submit' => '1',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+[2019-04-22T15:15:42+08:00] 43.224.45.150 POST xiao.baiduzhixing.com/api/user/img
+[运行时间：0.248704s] [吞吐率：4.02req/s] [内存消耗：578.17kb] [文件加载：86]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '24946',
+  'host' => 'xiao.baiduzhixing.com',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1902010 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'referer' => 'https://servicewechat.com/wx4c3829d268004a40/devtools/page-frame.html',
+  'content-type' => 'multipart/form-data; boundary=--------------------------947816174526240915835117',
+)
+[ info ] [ PARAM ] array (
+  'openid' => 'ojKG05OZrK8lvhep4fTgC4KnIYkc',
+  'submit' => '1',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+[2019-04-22T15:16:22+08:00] 43.224.45.150 POST xiao.baiduzhixing.com/api/user/img
+[运行时间：0.060082s] [吞吐率：16.64req/s] [内存消耗：578.17kb] [文件加载：86]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '24946',
+  'host' => 'xiao.baiduzhixing.com',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1902010 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'referer' => 'https://servicewechat.com/wx4c3829d268004a40/devtools/page-frame.html',
+  'content-type' => 'multipart/form-data; boundary=--------------------------087930671827845713881020',
+)
+[ info ] [ PARAM ] array (
+  'openid' => 'ojKG05OZrK8lvhep4fTgC4KnIYkc',
+  'submit' => '1',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+[2019-04-22T15:19:01+08:00] 43.224.45.150 POST xiao.baiduzhixing.com/api/user/img
+[运行时间：0.134483s] [吞吐率：7.44req/s] [内存消耗：642.02kb] [文件加载：79]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '24946',
+  'host' => 'xiao.baiduzhixing.com',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1902010 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'referer' => 'https://servicewechat.com/wx4c3829d268004a40/devtools/page-frame.html',
+  'content-type' => 'multipart/form-data; boundary=--------------------------830914289561628343274347',
+)
+[ info ] [ PARAM ] array (
+  'openid' => 'ojKG05OZrK8lvhep4fTgC4KnIYkc',
+  'submit' => '1',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+[2019-04-22T15:19:35+08:00] 43.224.45.150 POST xiao.baiduzhixing.com/api/user/img
+[运行时间：0.064896s] [吞吐率：15.41req/s] [内存消耗：640.92kb] [文件加载：79]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '24946',
+  'host' => 'xiao.baiduzhixing.com',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1902010 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'referer' => 'https://servicewechat.com/wx4c3829d268004a40/devtools/page-frame.html',
+  'content-type' => 'multipart/form-data; boundary=--------------------------942932147733247387175574',
+)
+[ info ] [ PARAM ] array (
+  'openid' => 'ojKG05OZrK8lvhep4fTgC4KnIYkc',
+  'submit' => '1',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+[2019-04-22T15:19:50+08:00] 43.224.45.150 POST xiao.baiduzhixing.com/api/user/img
+[运行时间：0.021264s] [吞吐率：47.03req/s] [内存消耗：640.92kb] [文件加载：79]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '24946',
+  'host' => 'xiao.baiduzhixing.com',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1902010 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'referer' => 'https://servicewechat.com/wx4c3829d268004a40/devtools/page-frame.html',
+  'content-type' => 'multipart/form-data; boundary=--------------------------734838017274271545128137',
+)
+[ info ] [ PARAM ] array (
+  'openid' => 'ojKG05OZrK8lvhep4fTgC4KnIYkc',
+  'submit' => '1',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+[2019-04-22T15:22:44+08:00] 43.224.45.150 POST xiao.baiduzhixing.com/api/user/img
+[运行时间：0.120497s] [吞吐率：8.30req/s] [内存消耗：625.56kb] [文件加载：85]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '24946',
+  'host' => 'xiao.baiduzhixing.com',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1902010 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'referer' => 'https://servicewechat.com/wx4c3829d268004a40/devtools/page-frame.html',
+  'content-type' => 'multipart/form-data; boundary=--------------------------446968663267843518013285',
+)
+[ info ] [ PARAM ] array (
+  'openid' => 'ojKG05OZrK8lvhep4fTgC4KnIYkc',
+  'submit' => '1',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+[2019-04-22T15:23:42+08:00] 43.224.45.150 POST xiao.baiduzhixing.com/api/user/img
+[运行时间：0.064723s] [吞吐率：15.45req/s] [内存消耗：624.47kb] [文件加载：85]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '24946',
+  'host' => 'xiao.baiduzhixing.com',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1902010 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'referer' => 'https://servicewechat.com/wx4c3829d268004a40/devtools/page-frame.html',
+  'content-type' => 'multipart/form-data; boundary=--------------------------276721465476102187011784',
+)
+[ info ] [ PARAM ] array (
+  'openid' => 'ojKG05OZrK8lvhep4fTgC4KnIYkc',
+  'submit' => '1',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+[2019-04-22T15:23:48+08:00] 43.224.45.150 POST xiao.baiduzhixing.com/api/user/img
+[运行时间：0.042587s] [吞吐率：23.48req/s] [内存消耗：586.89kb] [文件加载：85]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '24946',
+  'host' => 'xiao.baiduzhixing.com',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1902010 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'referer' => 'https://servicewechat.com/wx4c3829d268004a40/devtools/page-frame.html',
+  'content-type' => 'multipart/form-data; boundary=--------------------------609928307338324017565304',
+)
+[ info ] [ PARAM ] array (
+  'openid' => 'ojKG05OZrK8lvhep4fTgC4KnIYkc',
+  'submit' => '1',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+[2019-04-22T15:26:35+08:00] 43.224.45.150 POST xiao.baiduzhixing.com/api/user/img
+[运行时间：0.203881s] [吞吐率：4.90req/s] [内存消耗：626.74kb] [文件加载：85]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '24946',
+  'host' => 'xiao.baiduzhixing.com',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1902010 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'referer' => 'https://servicewechat.com/wx4c3829d268004a40/devtools/page-frame.html',
+  'content-type' => 'multipart/form-data; boundary=--------------------------081103044086640099189906',
+)
+[ info ] [ PARAM ] array (
+  'openid' => 'ojKG05OZrK8lvhep4fTgC4KnIYkc',
+  'submit' => '1',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+[2019-04-22T15:26:43+08:00] 43.224.45.150 POST xiao.baiduzhixing.com/api/user/img
+[运行时间：0.115137s] [吞吐率：8.69req/s] [内存消耗：624.55kb] [文件加载：84]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '24946',
+  'host' => 'xiao.baiduzhixing.com',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1902010 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'referer' => 'https://servicewechat.com/wx4c3829d268004a40/devtools/page-frame.html',
+  'content-type' => 'multipart/form-data; boundary=--------------------------608602024238654310142429',
+)
+[ info ] [ PARAM ] array (
+  'openid' => 'ojKG05OZrK8lvhep4fTgC4KnIYkc',
+  'submit' => '1',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+[2019-04-22T15:29:58+08:00] 43.224.45.150 POST xiao.baiduzhixing.com/api/user/img
+[运行时间：0.180114s] [吞吐率：5.55req/s] [内存消耗：627.63kb] [文件加载：85]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '24946',
+  'host' => 'xiao.baiduzhixing.com',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1902010 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'referer' => 'https://servicewechat.com/wx4c3829d268004a40/devtools/page-frame.html',
+  'content-type' => 'multipart/form-data; boundary=--------------------------884324164417200873125849',
+)
+[ info ] [ PARAM ] array (
+  'openid' => 'ojKG05OZrK8lvhep4fTgC4KnIYkc',
+  'submit' => '1',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] array (
+  'id' => 52,
+  'iid' => NULL,
+  'img' => '20190422/e5e06cf526116d84dbe41b8fa06657db.jpeg',
+  'img_oos' => 'NULLdfd',
+  'status' => NULL,
+  'img_type' => NULL,
+  'f_id' => 11,
+)
+[ info ] 1
+---------------------------------------------------------------
+[2019-04-22T15:35:55+08:00] 192.241.190.136 POST 118.24.8.254/phpmyadmin/
+[运行时间：0.002096s] [吞吐率：477.11req/s] [内存消耗：309.22kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T15:38:02+08:00] 146.234.92.185 POST 118.24.8.254/phpmyadmin/
+[运行时间：0.002765s] [吞吐率：361.67req/s] [内存消耗：309.22kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T15:39:12+08:00] 43.224.45.150 POST xiao.baiduzhixing.com/api/user/img
+[运行时间：0.313499s] [吞吐率：3.19req/s] [内存消耗：627.63kb] [文件加载：85]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '24946',
+  'host' => 'xiao.baiduzhixing.com',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1902010 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'referer' => 'https://servicewechat.com/wx4c3829d268004a40/devtools/page-frame.html',
+  'content-type' => 'multipart/form-data; boundary=--------------------------485373717312249994229907',
+)
+[ info ] [ PARAM ] array (
+  'openid' => 'ojKG05OZrK8lvhep4fTgC4KnIYkc',
+  'submit' => '1',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] array (
+  'id' => 52,
+  'iid' => NULL,
+  'img' => '20190422/8838736c4e16ad78a69294f93df340d5.jpeg',
+  'img_oos' => '1',
+  'status' => NULL,
+  'img_type' => NULL,
+  'f_id' => 11,
+)
+[ info ] 1
+---------------------------------------------------------------
+[2019-04-22T15:40:10+08:00] 43.224.45.150 POST xiao.baiduzhixing.com/api/user/img
+[运行时间：0.118438s] [吞吐率：8.44req/s] [内存消耗：626.54kb] [文件加载：85]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '24946',
+  'host' => 'xiao.baiduzhixing.com',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1902010 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'referer' => 'https://servicewechat.com/wx4c3829d268004a40/devtools/page-frame.html',
+  'content-type' => 'multipart/form-data; boundary=--------------------------935390133038517238184548',
+)
+[ info ] [ PARAM ] array (
+  'openid' => 'ojKG05OZrK8lvhep4fTgC4KnIYkc',
+  'submit' => '1',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] array (
+  'id' => 52,
+  'iid' => NULL,
+  'img' => '20190422/07e2569a06813389bfcce66ee819acf3.jpeg',
+  'img_oos' => '1',
+  'status' => NULL,
+  'img_type' => NULL,
+  'f_id' => 11,
+)
+[ info ] 1
+---------------------------------------------------------------
+[2019-04-22T16:19:01+08:00] 192.241.190.136 POST 118.24.8.254/phpmyadmin/
+[运行时间：0.002568s] [吞吐率：389.41req/s] [内存消耗：309.22kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T16:20:49+08:00] 146.234.92.185 POST 118.24.8.254/phpmyadmin/
+[运行时间：0.002675s] [吞吐率：373.86req/s] [内存消耗：309.22kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T16:44:21+08:00] 94.122.229.8 GET 118.24.8.254:80/
+[运行时间：0.002158s] [吞吐率：463.41req/s] [内存消耗：344.28kb] [文件加载：69]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36',
+  'host' => '118.24.8.254:80',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /www/wuliu/application/admin/view/login/index.html [ array (
+) ]
+---------------------------------------------------------------
+[2019-04-22T17:02:03+08:00] 192.241.190.136 POST 118.24.8.254/phpmyadmin/
+[运行时间：0.002451s] [吞吐率：408.01req/s] [内存消耗：309.22kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+[2019-04-22T17:04:21+08:00] 146.234.92.185 POST 118.24.8.254/phpmyadmin/
+[运行时间：0.002960s] [吞吐率：337.84req/s] [内存消耗：309.22kb] [文件加载：56]
+[ info ] [ LANG ] /www/wuliu/thinkphp/lang/zh-cn.php

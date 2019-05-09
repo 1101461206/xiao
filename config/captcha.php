@@ -1,0 +1,13 @@
+<?php
+return[
+    'codeSet'=>'0123456789',
+    'expire'=>1800,
+    'imageH'=>35,
+    'imageW'=>150,
+    'fontSize'=>18,
+    'length'=>5,
+    /*是否画混淆曲线*/
+    'useCurve'=>false,
+    /*是否添加杂点*/
+    'useNoise'=>true,
+];
